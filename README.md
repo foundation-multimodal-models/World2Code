@@ -6,9 +6,9 @@
 Jiacong Wang<sup>1,2*</sup>, 
 [Bohong Wu](https://scholar.google.com/citations?user=N6vypvkAAAAJ&hl=en)<sup>2*</sup>,
 [Haiyong Jiang](https://people.ucas.ac.cn/~0054404)<sup>1</sup>, 
-[Haoyuan Guo](https://scholar.google.com/citations?hl=en&user=hql67boAAAAJ&view_op=list_works&sortby=pubdate) <sup>2</sup>
-[Xin Xiao](https://scholar.google.com/citations?user=CL-ZEdwAAAAJ&hl=zh-CN)<sup>2</sup>, 
 Xun Zhou<sup>2</sup>, 
+[Xin Xiao](https://scholar.google.com/citations?user=CL-ZEdwAAAAJ&hl=zh-CN)<sup>2</sup>, 
+[Haoyuan Guo](https://scholar.google.com/citations?hl=en&user=hql67boAAAAJ&view_op=list_works&sortby=pubdate) <sup>2</sup>
 [Jun Xiao](https://scholar.google.com/citations?hl=zh-CN&user=9YbplfMAAAAJ)<sup>1</sup>, 
 
 <sup>1</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences, <sup>2</sup>ByteDance Inc
