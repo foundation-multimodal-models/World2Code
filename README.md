@@ -29,7 +29,8 @@ Training Code(WIP)
 
 ## Results
 We provide results comparision for LLaVA-NEXT here. 
-
+<p align="center"><img width="100%" src="./vqa.jpeg"></p>
+<p align="center"><img width="100%" src="./grouding.jpeg"></p>
 
 
 ### 1. Customize base settings
