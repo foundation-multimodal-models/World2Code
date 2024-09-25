@@ -12,7 +12,9 @@ Xun Zhou<sup>2</sup>,
 [Jun Xiao](https://scholar.google.com/citations?hl=zh-CN&user=9YbplfMAAAAJ)<sup>1</sup>, 
 
 <sup>1</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences, <sup>2</sup>ByteDance Inc
-Recent advances in Vision-Language Models
+
+>**abstract:**
+>Recent advances in Vision-Language Models
 (VLMs) and the scarcity of high-quality multi-
 modal alignment data have inspired numerous
 researches on synthetic VLM data generation.
@@ -37,7 +39,7 @@ parsing ability of VLMs presents better cross-
 modal equivalence than the commonly used
 detail caption ability. 
 </div>
-
+<p align="center"><img width="80%" src="./images/cases.jpg"></p> -->
 ## Todo(Comming Soon)
 Data Generate Pipline(WIP)
 
@@ -47,8 +49,7 @@ Training Code(WIP)
 ## News and Updates
 
 
-<!-- ## Selected Examples
-<p align="center"><img width="100%" src="./images/cases.jpg"></p> -->
+
 
 ## Results
 We provide results comparision for LLaVA-NEXT here. 
