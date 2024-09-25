@@ -12,7 +12,30 @@ Xun Zhou<sup>2</sup>,
 [Jun Xiao](https://scholar.google.com/citations?hl=zh-CN&user=9YbplfMAAAAJ)<sup>1</sup>, 
 
 <sup>1</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences, <sup>2</sup>ByteDance Inc
-
+Recent advances in Vision-Language Models
+(VLMs) and the scarcity of high-quality multi-
+modal alignment data have inspired numerous
+researches on synthetic VLM data generation.
+Challenging the conventional norm in VLM
+data construction, which uses a mixture of spe-
+cialists in caption and OCR, or stronger VLM
+APIs and expensive human annotation, we pro-
+pose to leverage the VLM itself for extracting
+cross-modal information of each via different
+prompts and filter the generated outputs again
+by itself via a consistency filtering strategy. In
+this paper, we present World to Code (W2C),
+a meticulously curated multi-modal data con-
+struction pipeline that organizes the final gener-
+ation output into a Python code format. Ex-
+periments have demonstrated the high qual-
+ity of W2C by improving various existing vi-
+sual question answering and visual grounding
+benchmarks across different VLMs. Further
+analysis also demonstrates that the new code
+parsing ability of VLMs presents better cross-
+modal equivalence than the commonly used
+detail caption ability. 
 </div>
 
 ## Todo(Comming Soon)
