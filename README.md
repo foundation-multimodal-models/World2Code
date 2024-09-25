@@ -21,7 +21,7 @@ struction pipeline that organizes the final generation output into a Python code
 >answering and visual grounding benchmarks across different VLMs. Further analysis also demonstrates that the new code
 parsing ability of VLMs presents better cross-modal equivalence than the commonly used detail caption ability. 
 </div>
-<p align="center"><img width="90%" src="./motivation.jpeg"></p> -->
+<p align="center"><img width="90%" src="./motivation.jpeg"></p> 
 
 
 ## Todo(Comming Soon)
