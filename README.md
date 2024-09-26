@@ -67,10 +67,9 @@ Thanks a lot for their great works.
 anonymous2024world,
 title={World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering},
 author={Anonymous},
-booktitle={Submitted to ACL Rolling Review - June 2024},
+booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
 year={2024},
-url={https://openreview.net/forum?id=9IVeNxXFV4},
-note={under review}
+url={https://openreview.net/forum?id=lEoTofDOZx}
 }
 ```
 
