@@ -1,7 +1,7 @@
 <div align="center">
 <h1>World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering</h1>
 <a href='https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE'><img src='https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg'></a>
-<a href='https://arxiv.org/abs/2409.20424'><img src='https://img.shields.io/badge/Paper-Openreview-red'></a>
+<a href='https://arxiv.org/abs/2409.20424'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
   
 Jiacong Wang<sup>1,2*</sup>, 
 [Bohong Wu](https://scholar.google.com/citations?user=N6vypvkAAAAJ&hl=en)<sup>2*</sup>,
