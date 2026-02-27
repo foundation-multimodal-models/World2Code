@@ -26,7 +26,8 @@ parsing ability of VLMs presents better cross-modal equivalence than the commonl
 ## Dataset: 
 HuggingFace: stormthunder/world2code
 
-Training Code(WIP)
+Training Code:
+You can execute demo bash scripts in this directory to train LLaVA models or the repo https://github.com/foundation-multimodal-models/CAL.
 
 
 ## News and Updates
