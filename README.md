@@ -27,7 +27,7 @@ parsing ability of VLMs presents better cross-modal equivalence than the commonl
 HuggingFace: stormthunder/world2code
 
 Training Code:
-You can execute demo bash scripts in this directory to train LLaVA models or the repo https://github.com/foundation-multimodal-models/CAL.
+You can execute demo bash scripts in this [directory](./run_scripts) to train LLaVA models or the repo https://github.com/foundation-multimodal-models/CAL.
 
 
 ## News and Updates
