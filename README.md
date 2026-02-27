@@ -23,9 +23,8 @@ parsing ability of VLMs presents better cross-modal equivalence than the commonl
 <p align="center"><img width="90%" src="./motivation.jpeg"></p> 
 
 
-## Todo(Comming Soon)
-Data Generate Pipline(WIP)
-
+## Dataset: 
+HuggingFace: stormthunder/world2code
 Training Code(WIP)
 
 
