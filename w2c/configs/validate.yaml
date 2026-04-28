@@ -1,0 +1,8 @@
+data_paths:
+  - ./data/output/relation/*.parquet
+
+output_dir: ./data/output/validated/
+
+image_columns: ["image", "frame", "binary"]
+image_path_columns: ["image_path", "path"]
+

@@ -1,0 +1,12 @@
+data_paths:
+  - ./data/output/caption/*.parquet
+
+output_dir: ./data/output/bbox/
+
+image_columns: ["image", "frame", "binary"]
+image_path_columns: ["image_path", "path"]
+
+# GroundingDINO model assets (open-source users should provide these).
+groundingdino_config: ./GroundingDINO/groundingdino/config/GroundingDINO_SwinB_cfg.py
+groundingdino_ckpt: ./checkpoints/groundingdino_swinb_cogcoor.pth
+

@@ -1,0 +1,8 @@
+data_paths:
+  - ./data/output/bbox/*.parquet
+
+output_dir: ./data/output/ocr_vlm/
+
+image_columns: ["image", "frame", "binary"]
+image_path_columns: ["image_path", "path"]
+

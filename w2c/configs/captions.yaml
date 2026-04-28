@@ -1,0 +1,13 @@
+data_paths:
+  # Local parquet files or globs.
+  - ./data/input/*.parquet
+
+# Where merged results will be written by `merge_results.py`.
+output_dir: ./data/output/caption/
+
+# Column candidates containing images:
+# - bytes columns: `image`, `frame`, `binary`
+# - or a path column: `image_path`
+image_columns: ["image", "frame", "binary"]
+image_path_columns: ["image_path", "path"]
+

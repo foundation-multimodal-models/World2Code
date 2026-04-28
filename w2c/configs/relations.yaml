@@ -1,0 +1,8 @@
+data_paths:
+  - ./data/output/ocr_vlm/*.parquet
+
+output_dir: ./data/output/relation/
+
+image_columns: ["image", "frame", "binary"]
+image_path_columns: ["image_path", "path"]
+
