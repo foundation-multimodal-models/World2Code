@@ -34,6 +34,9 @@ You can execute demo bash scripts in this [directory](./run_scripts) to train LL
 
 ## News and Updates
 
+The data pipeline can be founded at w2c dir.
+
+Our paper is accepted at The 2024 Conference on Empirical Methods in Natural Language Processing.
 
 
 
